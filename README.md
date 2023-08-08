@@ -1,16 +1,56 @@
-### Hi there 👋
+# Hi, My name is Max</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**SummerFreezingMe/SummerFreezingMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Java Backend Developer & VSU student, always seeking for a new knowledge!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm focusing on 👨‍💻
+
+
+- 📘 Reading: Effective Java, 3rd Edition
+- 👯 Learning: Spring Boot best practices
+- 🔨 Working on: [FootSim API](https://github.com/SummerFreezingMe/FootSimAPI)  
+
+
+
+### My Stack:
+
+
+#### Languages:
+
+[![](https://skillicons.dev/icons?i=java,py,go)]()
+
+#### Frameworks:
+
+[![](https://skillicons.dev/icons?i=spring,hibernate,flask,maven)]()
+
+
+#### Databases:
+
+[![](https://skillicons.dev/icons?i=postgres)]()
+
+
+#### Tools:
+
+[![](https://skillicons.dev/icons?i=git,github,idea,postman,powershell,figma,docker)]()
+
+
+### Hobbies:
+
+- Explore new Tech 💻
+- Music 🎧🎸
+- Sports ⚽🚴🏃
+
+### Reach me out:
+
+<div id="badges">
+  <a href="https://vk.com/ledesordrecestmoi">
+      <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK"/>
+  </a>
+   <a href="https://t.me/jesienw">
+     <img src="https://img.shields.io/badge/TELEGRAM-%230077B5.svg?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
+  </a>
+  <a href="mailto:mail.072disorder@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
