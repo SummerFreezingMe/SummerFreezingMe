@@ -17,11 +17,11 @@
 
 #### Languages:
 
-[![](https://skillicons.dev/icons?i=java,py,go)]()
+[![](https://skillicons.dev/icons?i=java,py)]()
 
 #### Frameworks:
 
-[![](https://skillicons.dev/icons?i=spring,hibernate,flask,maven)]()
+[![](https://skillicons.dev/icons?i=spring,hibernate,flask,maven,kafka)]()
 
 
 #### Databases:
